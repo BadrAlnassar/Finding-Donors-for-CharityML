@@ -2,6 +2,8 @@
 # Supervised Learning
 ## Project: Finding Donors for CharityML
 
+#### The first project for Udacity's Intro to Machine Learning nanodegree
+
 ### Install
 
 This project requires **Python 3.x** and the following Python libraries installed:
